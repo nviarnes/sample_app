@@ -11,6 +11,7 @@ group :development, :test do
   gem 'rspec'
   gem 'rspec-rails'
   gem 'rspec-rails-matchers'
+  gem 'spork'
 end
 
 # Use unicorn as the web server
